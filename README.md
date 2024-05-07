@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This repo holds the source code and scripts for “HJG: An Effective Hierarchical Joint Graph for Approximate Nearest Neighbour Search in Multi-Metric Spaces”
+This repo holds the source code and scripts for “HJG: An Effective Hierarchical Joint Graph for Approximate Nearest Neighbour Search in Multi-Metric Spaces” (ICDE 24)
 
 ## Usage
 
